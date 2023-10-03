@@ -9,7 +9,6 @@ body{
     margin: 0 auto;
     min-height: 100vh;
     position: relative;
-    zoom: 0.9;
 }
 
 
@@ -229,7 +228,7 @@ main{
 }
 #menu{
     width:34vw;
-    height:111vh;
+    height:100vh;
     right:0;
     top:0;
     position: fixed;
@@ -294,6 +293,7 @@ footer{
 @media only screen and (max-width: 800px) {
     body{
         min-height:105.5vh;
+        zoom: 0.9;
     }
     header{
         width:100vw;
