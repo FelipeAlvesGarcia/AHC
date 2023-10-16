@@ -169,6 +169,12 @@ body{
 .homeabotao:hover{
     opacity:0.8;
 }
+.homefoo{
+    display: none;
+    justify-content: right;
+    width:110vw;
+    margin-top:10vw;
+}
 /**/
 
 
